@@ -69,8 +69,9 @@ body {
 
 @media (max-width: 768px) {
     .hero-banner h1 {
-        font-size: 2rem; /* Smaller font size for mobile devices */
+        font-size: 2rem;
     }
+}
 
 .info-box {
     display: none;
